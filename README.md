@@ -1,2 +1,4 @@
 # hello-world
-My hello world repo
+
+Hello,
+This is Erdinc Ustuay and my first change to hello-world project. 
